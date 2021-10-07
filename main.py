@@ -35,7 +35,7 @@ def Game():
 Game()
 while True:
     Ask = str(input('Do you want to play again? (Y/N): '))
-    if Ask == 'Y':
+    if Ask == 'Y' or Ask == 'y':
         Game()
     else:
         exit()
