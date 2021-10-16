@@ -1,1 +1,1 @@
-# Number-Guess-game
+# Pyhton mini Projects
